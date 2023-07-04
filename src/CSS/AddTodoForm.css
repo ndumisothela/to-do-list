@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+.form input {
+  width: 350px;
+  height: 25px;
+  margin-right: 5px;
+}
+.form button {
+  background-color: gold;
+  border: none;
+  border-radius: 5px;
+}
